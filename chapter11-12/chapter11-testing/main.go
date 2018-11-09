@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"intro_to_golang/chapter11/chapter11-testing/math"
+	"intro_to_golang/chapter11-12/chapter11-testing/math"
 )
 
 func main() {
