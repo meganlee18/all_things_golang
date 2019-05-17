@@ -3,7 +3,7 @@
 ## Do you love Go?
 Let's learn Go programming language! This file documents answers to the quiz section in "Programming in Go" by Caleb Doxsey.
 
-Check out "Programming in Go" by Caleb Doxsey: https://www.golang-book.com/public/pdf/gobook.0.pdf
+Check out "Programming in Go" by Caleb Doxsey: https://www.golang-book.com/public/pdf/gobook.pdf
 
 ## What does it cover?
 - Types
